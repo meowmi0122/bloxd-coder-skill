@@ -1,4 +1,3 @@
-
 ---
 name: bloxd-io-coder
 description: Bloxd.io programming and in-game scripting assistant. Use for designing, writing, explaining, debugging, and organizing Bloxd.io code, commands, interaction logic, game mechanics, map features, player-management functions, and reusable code templates.
