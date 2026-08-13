@@ -1,2 +1,2 @@
 # bloxd-coder-skill
-#### PLEASE READ skill.md
+#### PLEASE READ SKILL.md
